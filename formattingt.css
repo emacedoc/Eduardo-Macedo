@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Taviraj);
+@import url(https://fonts.googleapis.com/css?family=Lustria);
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+head {
+    <script src="https://kit.fontawesome.com/d61b9457df.js"></script>
+}
+
+body {
+    
+    font-family: 'Taviraj';
+    font-size: 14px
+        
+}
+
+p1 {
+    font-family: 'Taviraj';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Lustria';
+    font-size: 14px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Lustria';
+    font-size: 14px;
+    color: #6A5ACD;
+    
+}
+
+h3 {
+    font-family: 'Lustria';
+    font-size: 14px;
+}
+
