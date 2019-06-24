@@ -10,9 +10,15 @@ body {
 }
 
 p1 {
-    font-family: 'Taviraj';
-    font-size: 20px;
+    font-family: 'verdana';
+    font-size: 18px;
     font-weight: bold;
+}
+
+p2 {
+    font-family: 'Taviraj';
+    font-size: 16px;
+    font-style: italic;
 }
 
 h1 {
@@ -31,4 +37,10 @@ h2 {
 h3 {
     font-family: 'Lustria';
     font-size: 14px;
+}
+
+h4 {
+    color:red;
+    font-size: 14;
+    font-style: oblique
 }
