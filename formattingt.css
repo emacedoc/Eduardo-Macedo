@@ -5,9 +5,9 @@
 body {
     
     font-family: 'Taviraj';
-    font-size: 14px
-        
-}
+    font-size: 14px;
+    background-color:#F5FFFA         
+} 
 
 p1 {
     font-family: 'verdana';
@@ -40,7 +40,9 @@ h3 {
 }
 
 h4 {
-    color:red;
+    
     font-size: 14;
-    font-style: oblique
+    font-style: oblique;
+    text-align: center;
+    
 }
