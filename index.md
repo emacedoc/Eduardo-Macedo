@@ -40,7 +40,7 @@
 
             “Projeto in-loco para implementação de sistemas P2K para gerenciamento do fluxo de dados do entre matriz, lojas e cdis do cliente Centauro.”<br><br>
 
-            <h2>08.2015 ATÉ 04.2016 - Consultor em Informática e Processamento de Dados,</h2>                   	
+            <h2>08.2015 ATÉ 08.2016 - Consultor em Informática e Processamento de Dados,</h2>                   	
             <h3>MCM Assessoria Contábil - www.mcmcontabil.com.br</h3>
 
             “Administração da infraestrutura de TI e sistemas de gerenciamento interno do cliente Boticário”<br><br>
